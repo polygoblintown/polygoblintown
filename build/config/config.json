@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x6D8c00F9bAAfB785385b64D2256cc2CAA0C329aB",
+  "SCAN_LINK": "https://polygonscan.com/address/0x6D8c00F9bAAfB785385b64D2256cc2CAA0C329aB",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Polygoblintown",
+  "SYMBOL": "PGT",
+  "MAX_SUPPLY": 9999,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/polygoblintown",
+  "SHOW_BACKGROUND": true
+}
